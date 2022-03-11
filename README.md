@@ -27,8 +27,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=IranoLincolnJA&show_icons=true&theme=dracula" alt="IranoLincolnJA's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IranoLincolnJA&layout=compact&theme=dracula" alt="IranoLincolnJA's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lincoln-irano&show_icons=true&theme=dracula" alt="lincoln-irano's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincoln-irano&layout=compact&theme=dracula" alt="lincoln-irano's most languages"/>
 </p>
 
 <br><br>
