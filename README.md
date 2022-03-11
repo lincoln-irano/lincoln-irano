@@ -33,7 +33,7 @@
 
 <br><br>
 
-##My &nbsp;Social Links
+## My &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/lincoln-irano-b1574ba1/" target="_blank">
