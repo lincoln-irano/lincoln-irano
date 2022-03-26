@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/lincoln-irano/d3ee038cd298d316208a03f24f11716a/raw/833e54393e9effaf2c35bc637affd0514c58857f/githubcard.svg"/>
+<img align="right" height="552px" src="https://raw.githubusercontent.com/gist/lincoln-irano/d3ee038cd298d316208a03f24f11716a/raw/833e54393e9effaf2c35bc637affd0514c58857f/githubcard.svg"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lincoln Irano</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IranoLincolnJA&color=yellow" alt="Profile views" /> </p>
